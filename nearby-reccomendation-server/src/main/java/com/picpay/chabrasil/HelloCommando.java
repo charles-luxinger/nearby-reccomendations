@@ -1,4 +1,4 @@
-package org.acme.commandmode;
+package com.picpay.chabrasil;
 
 import javax.enterprise.context.control.ActivateRequestContext;
 import javax.inject.Inject;
